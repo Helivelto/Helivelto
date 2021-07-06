@@ -6,5 +6,5 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Back-end and Front-end projects 
-- :computer: I’m currently learning: HTML, CSS, JavaScript, EJS and Git
+- :computer: I’m currently learning: HTML, CSS, JavaScript, Node.js and Git
 - :mag: I'm interested in Web Dev
