@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🙋‍♂️ My name is: Helivelto Gomes
-- 💻 I'm studying Internet Computing
-- 🧐 I'm interested in Web Development
+🙋‍♂️ My name is: Helivelto Gomes <br>
+👨‍💻 I'm studying Internet Computing <br>
+🧐 I'm interested in Web Development <br>
 
 ##
 
@@ -17,10 +17,7 @@
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </div>
 
- ##
+##
 
-<!-- <div>
-| Frontend  | Backend | Database | Software versioning |
-|---|---|---|---|
-| <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> | <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/npm.png"/> | <img src="https://img.icons8.com/color/50/000000/mysql-logo.png"/> | <img src="https://img.icons8.com/color/48/000000/git.png" style="text-align: center"/>|
-</div> -->
+<h3>🖥 Social: </h3>
+<a href="https://www.linkedin.com/in/helivelto-gomes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
