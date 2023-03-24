@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 🙋‍♂️ My name is: Helivelto Gomes <br>
-👨‍💻 I'm studying Internet Computing <br>
+👨‍💻 I'm studying analysis and systems development <br>
+👨‍💻 I'm graduated in inInternet Computing <br>
 🧐 I'm interested in Web Development <br>
 
 ##
