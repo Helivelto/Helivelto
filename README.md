@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 🙋‍♂️ My name is: Helivelto Gomes <br>
-👨‍💻 I'm studying analysis and systems development <br>
-👨‍💻 I'm graduated in inInternet Computing <br>
+👨‍💻 I'm studying Analysis and Systems Development <br>
+👨‍💻 I'm graduated in Internet Computing <br>
 🧐 I'm interested in Web Development <br>
 
 ##
@@ -14,7 +14,6 @@
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
- <img src="https://icons8.com/icon/13679/java"/>
 <img src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </div>
